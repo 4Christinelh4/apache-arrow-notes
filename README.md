@@ -1,1 +1,1 @@
-## These are some notes on apache arrow apis (C++)
+These are some notes on apache arrow apis (C++)
